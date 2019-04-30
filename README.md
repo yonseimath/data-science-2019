@@ -24,3 +24,8 @@
 ### 핸즈온 머신러닝
 
 [1장 한눈에 보는 머신러닝 - 김예나](https://docs.google.com/presentation/d/e/2PACX-1vRT3rpeJ8sRK3uoLmQ34gV8UBzEAHOL0IUPhbf7EggXCtCQMwx1aCmFO7zOtP2W3AVM0SSoIpqnfDuE/pub?start=false&loop=false&delayms=3000)
+
+## 주요 블로깅
+
+> TBD
+
