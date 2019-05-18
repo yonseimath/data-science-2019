@@ -20,6 +20,9 @@
 | 최의용 | 7  | shjj08@gmail.com       | [link](https://medium.com/@unfinishedgod) | [link](https://www.facebook.com/shjj08)                         | [link](https://github.com/Unfinishedgod) |
 | 장용주| 14  |  yongju1264@gmail.com   | [link](https://medium.com/@yongju1264) | [link](https://www.facebook.com/lolhoho)                         | [link](https://github.com/lolhi) |
 |안시원|13|ssibongee@yonsei.ac.kr|[link](https://medium.com/@ssibongee)|[link](https://www.facebook.com/profile.php?id=100004139895588)|[link](https://github.com/ssibongee)|
+|권민|13|min94913@gmail.com|[link](https://medium.com/@min94913)|[link](https://www.facebook.com/min.kwon.940913)|[link](https://github.com/min94913)|
+김동현|15|zoown13@gmail.com|[link](https://medium.com/@zoown13)|[link](https://www.facebook.com/kim.donghyun.737)|[link](https://github.com/zoown13)|
+백혜림|13|hreeee@yonsei.ac.kr|[link](https://medium.com/@hreeee)|[link](https://www.facebook.com/baekhr.marina)|[link](https://github.com/hyerimbeak)|
 
 
 ## 발표 자료
