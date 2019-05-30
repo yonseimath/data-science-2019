@@ -18,9 +18,9 @@
 | 이행수 | 9  | dlgodtnzzang@gmail.com | [link](https://medium.com/@hslee09)       | [link](https://www.facebook.com/dlgodtnzzang)                   | [link](https://github.com/hslee09)       |
 | 임동건 | 15 | lim.dg119@gmail.com    | [link](https://medium.com/@lim.dg119)     | [link](https://www.facebook.com/ken11995z@naver.com)            | [link](https://github.com/limdg119)      |
 | 최의용 | 7  | shjj08@gmail.com       | [link](https://medium.com/@unfinishedgod) | [link](https://www.facebook.com/shjj08)                         | [link](https://github.com/Unfinishedgod) |
-| 장용주| 14  |  yongju1264@gmail.com   | [link](https://medium.com/@yongju1264) | [link](https://www.facebook.com/lolhoho)                         | [link](https://github.com/lolhi) |
+| 장용주| 14  |  yongju1264@gmail.com   | [link](https://www.notion.so/yonseiwjcs/Yonsei-Univ-CS-in-WJ-1aee7678f1e6490e872f3865e3055d53) | [link](https://www.facebook.com/lolhoho)                         | [link](https://github.com/lolhi) |
 |안시원|13|ssibongee@yonsei.ac.kr|[link](https://www.notion.so/yonseiwjcs/Yonsei-Univ-CS-in-WJ-1aee7678f1e6490e872f3865e3055d53)|[link](https://www.facebook.com/profile.php?id=100004139895588)|[link](https://github.com/ssibongee)|
-|권민|13|min94913@gmail.com|[link](https://medium.com/@min94913)|[link](https://www.facebook.com/min.kwon.940913)|[link](https://github.com/min94913)|
+|권민|13|min94913@gmail.com|[link](https://www.notion.so/yonseiwjcs/Yonsei-Univ-CS-in-WJ-1aee7678f1e6490e872f3865e3055d53)|[link](https://www.facebook.com/min.kwon.940913)|[link](https://github.com/min94913)|
 김동현|15|zoown13@gmail.com|[link](https://medium.com/@zoown13)|[link](https://www.facebook.com/kim.donghyun.737)|[link](https://github.com/zoown13)|
 백혜림|13|hreeee@yonsei.ac.kr|[link](https://medium.com/@hreeee)|[link](https://www.facebook.com/baekhr.marina)|[link](https://github.com/hyerimbeak)|
 
