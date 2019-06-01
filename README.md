@@ -21,9 +21,10 @@
 | 장용주| 14  |  yongju1264@gmail.com   | [link](https://www.notion.so/yonseiwjcs/Yonsei-Univ-CS-in-WJ-1aee7678f1e6490e872f3865e3055d53) | [link](https://www.facebook.com/lolhoho)                         | [link](https://github.com/lolhi) |
 |안시원|13|ssibongee@yonsei.ac.kr|[link](https://www.notion.so/yonseiwjcs/Yonsei-Univ-CS-in-WJ-1aee7678f1e6490e872f3865e3055d53)|[link](https://www.facebook.com/profile.php?id=100004139895588)|[link](https://github.com/ssibongee)|
 |권민|13|min94913@gmail.com|[link](https://www.notion.so/yonseiwjcs/Yonsei-Univ-CS-in-WJ-1aee7678f1e6490e872f3865e3055d53)|[link](https://www.facebook.com/min.kwon.940913)|[link](https://github.com/min94913)|
-김동현|15|zoown13@gmail.com|[link](https://medium.com/@zoown13)|[link](https://www.facebook.com/kim.donghyun.737)|[link](https://github.com/zoown13)|
-백혜림|13|hreeee@yonsei.ac.kr|[link](https://medium.com/@hreeee)|[link](https://www.facebook.com/baekhr.marina)|[link](https://github.com/hyerimbeak)|
-
+|김동현|15|zoown13@gmail.com|[link](https://medium.com/@zoown13)|[link](https://www.facebook.com/kim.donghyun.737)|[link](https://github.com/zoown13)|
+|백혜림|13|hreeee@yonsei.ac.kr|[link](https://medium.com/@hreeee)|[link](https://www.facebook.com/baekhr.marina)|[link](https://github.com/hyerimbeak)|
+|강효정|15|begywjd@yonsei.ac.kr|[link](https://medium.com/@begywjd)|[link](https://www.facebook.com/begywjd)|[link](https://github.com/khjk)|
+|김민주|17|arinkimxs2@gmail.com|[link](https://medium.com/@arinkimsx2)|[link](https://www.facebook.com/profile.php?id=100006438246509)|[link](https://github.com/MinJoooo)|
 
 ## 발표 자료
 
