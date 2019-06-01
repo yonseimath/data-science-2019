@@ -33,7 +33,7 @@
 [2장 왜머신러닝 프로젝트 처음부터 끝까지 - 임동건](https://docs.google.com/presentation/d/13WfzIiZ92DERKi5fEaGXHSBEVYqasALLE1m6-Wmeaxs/edit?usp=sharing)  
 3장 머신러닝 시스템의 종류 - 조규현  
 [4장 모델훈련 - 장용주](https://docs.google.com/presentation/d/1292jZNNym3dMoorwQ8NPY2biy0smo7eKQMimLbz414M/edit?usp=sharing)  
-[5장 서포트 벡터 머신 - 이행수](https://docs.google.com/presentation/d/1_Jz9Rf-YswQdTRtLO5wVsutAHQOCKtMu0bDBM-rMqAM/edit?usp=sharing)
+[5장 서포트 벡터 머신 - 이행수](https://docs.google.com/presentation/d/1_Jz9Rf-YswQdTRtLO5wVsutAHQOCKtMu0bDBM-rMqAM/edit?usp=sharing)  
 6장 결정트리  
 7장 앙상블 학습과 랜덤 포레스트  
 8장 차원 축소  
