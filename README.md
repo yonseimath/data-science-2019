@@ -29,7 +29,7 @@
 
 ### 핸즈온 머신러닝
 
-[1장 한눈에 보는 머신러닝? - 김예나](https://docs.google.com/presentation/d/e/2PACX-1vRT3rpeJ8sRK3uoLmQ34gV8UBzEAHOL0IUPhbf7EggXCtCQMwx1aCmFO7zOtP2W3AVM0SSoIpqnfDuE/pub?start=false&loop=false&delayms=3000)  
+[1장 한눈에 보는 머신러닝 - 김예나](https://docs.google.com/presentation/d/e/2PACX-1vRT3rpeJ8sRK3uoLmQ34gV8UBzEAHOL0IUPhbf7EggXCtCQMwx1aCmFO7zOtP2W3AVM0SSoIpqnfDuE/pub?start=false&loop=false&delayms=3000)  
 [2장 왜머신러닝 프로젝트 처음부터 끝까지 - 임동건](https://docs.google.com/presentation/d/13WfzIiZ92DERKi5fEaGXHSBEVYqasALLE1m6-Wmeaxs/edit?usp=sharing)  
 3장 머신러닝 시스템의 종류 - 조규현  
 [4장 모델훈련 - 장용주](https://docs.google.com/presentation/d/1292jZNNym3dMoorwQ8NPY2biy0smo7eKQMimLbz414M/edit?usp=sharing)  
