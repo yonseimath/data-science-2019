@@ -29,7 +29,22 @@
 
 ### 핸즈온 머신러닝
 
-[1장 한눈에 보는 머신러닝 - 김예나](https://docs.google.com/presentation/d/e/2PACX-1vRT3rpeJ8sRK3uoLmQ34gV8UBzEAHOL0IUPhbf7EggXCtCQMwx1aCmFO7zOtP2W3AVM0SSoIpqnfDuE/pub?start=false&loop=false&delayms=3000)
+[1장 한눈에 보는 머신러닝? - 김예나](https://docs.google.com/presentation/d/e/2PACX-1vRT3rpeJ8sRK3uoLmQ34gV8UBzEAHOL0IUPhbf7EggXCtCQMwx1aCmFO7zOtP2W3AVM0SSoIpqnfDuE/pub?start=false&loop=false&delayms=3000)  
+[2장 왜머신러닝 프로젝트 처음부터 끝까지 - 임동건](https://docs.google.com/presentation/d/13WfzIiZ92DERKi5fEaGXHSBEVYqasALLE1m6-Wmeaxs/edit?usp=sharing)  
+3장 머신러닝 시스템의 종류 - 조규현  
+[4장 모델훈련 - 장용주](https://docs.google.com/presentation/d/1292jZNNym3dMoorwQ8NPY2biy0smo7eKQMimLbz414M/edit?usp=sharing)  
+[5장 서포트 벡터 머신 - 이행수](https://docs.google.com/presentation/d/1_Jz9Rf-YswQdTRtLO5wVsutAHQOCKtMu0bDBM-rMqAM/edit?usp=sharing)
+6장 결정트리  
+7장 앙상블 학습과 랜덤 포레스트  
+8장 차원 축소  
+9장 텐서플로 시작하기  
+10장 인공 신경망 소개  
+11장 심층 신경망 훈련  
+12장 다중 머신과 장치를 위한 분산 텐서플로  
+13장 합성곱 신경망  
+14장 순환 신경망  
+15장 오토인코더  
+16장 강화학습  
 
 ## 주요 블로깅
 
