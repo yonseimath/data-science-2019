@@ -43,7 +43,7 @@
 11장 심층 신경망 훈련  
 12장 다중 머신과 장치를 위한 분산 텐서플로  
 13장 합성곱 신경망  
-[14장 순환 신경망 - 노범환](https://yonsei-my.sharepoint.com/:p:/g/personal/bumani82_o365_yonsei_ac_kr/EVUEUN-oxhFOug2De7sUpnQBw9F5H8rb-Q8iAkfB1_GErg?e=wV2vbm) 
+[14장 순환 신경망 - 노범환](https://yonsei-my.sharepoint.com/:p:/g/personal/bumani82_o365_yonsei_ac_kr/EVUEUN-oxhFOug2De7sUpnQBw9F5H8rb-Q8iAkfB1_GErg?e=wV2vbm)  
 15장 오토인코더  
 16장 강화학습  
 
