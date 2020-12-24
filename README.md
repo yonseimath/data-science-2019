@@ -11,7 +11,7 @@
 |-----|----|------------------------|-------------------------------------------|-----------------------------------------------------------------|------------------------------------------|
 | 김예나 | 18 | hffuf7799@gmail.com    | [link](https://medium.com/@hffuf7799)     | [link](https://www.facebook.com/profile.php?id=100005636506960) | [link](https://github.com/yenakim13)     |
 | 조규현 | 14 | whrbgus1224@gmail.com  | [link](https://medium.com/@whrbgus1224)   | [link](https://www.facebook.com/profile.php?id=100003109391988) | [link](https://github.com/whrbgus815)    |
-| 노범환 | 16 | bumani82@gmail.com     | [link](https://medium.com/@bumani82)      | [link](https://www.facebook.com/beomhwanroh)                    | [link](https://github.com/robomoan)      |
+| 노범환 | 16 | bumani82@gmail.com     | [link](https://robomoan.medium.com/)      | [link](https://www.facebook.com/beomhwanroh)                    | [link](https://github.com/robomoan)      |
 | 김태윤 | 15 | taeyoun96@gmail.com    | [link](https://medium.com/@taeyoun96)     | [link](https://m.facebook.com/profile.php?ref=bookmarks)        | [link](https://github.com/taeyoun96)     |
 | 박수진 | 14 | iamsudinn@gmail.com    | [link](https://medium.com/@iamsudinn)     | [link](https://www.facebook.com/iamsudinn)                      | [link](https://github.com/iamsudinn)     |
 | 김원석 | 12 | onestonk@gmail.com     | [link](https://medium.com/@onestonk)      | [link](https://www.facebook.com/onestonk)                       | [link](https://github.com/kimonesuk)     |
